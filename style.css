@@ -1,0 +1,10 @@
+div {
+    width: 100px;
+    height: 100px;
+    background-image: url(image.png);
+    background-size: 100px 100px;
+    position: absolute;
+    left: 0px;
+    top: 0px;
+    border-radius: 50% 50%;
+}
